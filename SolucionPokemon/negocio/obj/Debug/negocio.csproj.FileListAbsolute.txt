@@ -1,0 +1,9 @@
+C:\Users\54113\Desktop\c#\SolucionPokemon\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\54113\Desktop\c#\SolucionPokemon\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\54113\Desktop\c#\SolucionPokemon\negocio\bin\Debug\negocio.dll
+C:\Users\54113\Desktop\c#\SolucionPokemon\negocio\bin\Debug\negocio.pdb
+C:\Users\54113\Desktop\c#\SolucionPokemon\negocio\bin\Debug\dominio.dll
+C:\Users\54113\Desktop\c#\SolucionPokemon\negocio\bin\Debug\dominio.pdb
+C:\Users\54113\Desktop\c#\SolucionPokemon\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\54113\Desktop\c#\SolucionPokemon\negocio\obj\Debug\negocio.dll
+C:\Users\54113\Desktop\c#\SolucionPokemon\negocio\obj\Debug\negocio.pdb

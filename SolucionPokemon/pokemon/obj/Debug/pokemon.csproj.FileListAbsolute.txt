@@ -1,0 +1,17 @@
+C:\Users\54113\Desktop\c#\SolucionPokemon\pokemon\bin\Debug\pokemon.exe.config
+C:\Users\54113\Desktop\c#\SolucionPokemon\pokemon\bin\Debug\pokemon.exe
+C:\Users\54113\Desktop\c#\SolucionPokemon\pokemon\bin\Debug\pokemon.pdb
+C:\Users\54113\Desktop\c#\SolucionPokemon\pokemon\obj\Debug\pokemon.csproj.AssemblyReference.cache
+C:\Users\54113\Desktop\c#\SolucionPokemon\pokemon\obj\Debug\pokemon.csproj.SuggestedBindingRedirects.cache
+C:\Users\54113\Desktop\c#\SolucionPokemon\pokemon\obj\Debug\pokemon.pokemon.resources
+C:\Users\54113\Desktop\c#\SolucionPokemon\pokemon\obj\Debug\pokemon.Properties.Resources.resources
+C:\Users\54113\Desktop\c#\SolucionPokemon\pokemon\obj\Debug\pokemon.csproj.GenerateResource.cache
+C:\Users\54113\Desktop\c#\SolucionPokemon\pokemon\obj\Debug\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\54113\Desktop\c#\SolucionPokemon\pokemon\obj\Debug\pokemon.exe
+C:\Users\54113\Desktop\c#\SolucionPokemon\pokemon\obj\Debug\pokemon.pdb
+C:\Users\54113\Desktop\c#\SolucionPokemon\pokemon\bin\Debug\dominio.dll
+C:\Users\54113\Desktop\c#\SolucionPokemon\pokemon\bin\Debug\dominio.pdb
+C:\Users\54113\Desktop\c#\SolucionPokemon\pokemon\obj\Debug\pokemon.csproj.CopyComplete
+C:\Users\54113\Desktop\c#\SolucionPokemon\pokemon\bin\Debug\negocio.dll
+C:\Users\54113\Desktop\c#\SolucionPokemon\pokemon\bin\Debug\negocio.pdb
+C:\Users\54113\Desktop\c#\SolucionPokemon\pokemon\obj\Debug\pokemon.frmAltaPokemon.resources
